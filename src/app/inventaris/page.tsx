@@ -9,6 +9,9 @@ const InventarisPage = () => {
           <h1>Klik Saya</h1>
       </button>
 
+      <button className="w-[8rem] bg-blue-300 test  white text-[15px] rounded-[1rem]">
+      <h1>Peekaboo</h1>
+      </button>
 
       <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
         <h1>Inventaris</h1>
