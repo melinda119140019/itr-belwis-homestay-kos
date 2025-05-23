@@ -1,18 +1,21 @@
+// app/about/page.tsx
+import Image from "next/image";
 
-
-export default function Home() {
-
+const BookingPage = () => {
   return (
-<div>
+    <div>
       <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
-      <h1>Inventaris</h1>
+      <h1>Booking</h1>
       </div>
       <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
-     <h1>Kos Laki-laki</h1>
+     <h1>Kamar 2</h1>
      </div>
      <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
-     <h1>Kos Perempuan</h1>
+     <h1>Kamar 3</h1>
      </div>
     </div>
-  );
-}
+  )
+  
+};
+
+export default BookingPage;
