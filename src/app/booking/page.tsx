@@ -5,7 +5,7 @@ const BookingPage = () => {
   return (
     <div>
       <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
-      <h1>Booking</h1>
+      <h1>Pemesanan</h1>
       </div>
       <div className="max-w-8xl mx-auto px-4 py-16 space-y-24">
      <h1>Kamar 2</h1>
